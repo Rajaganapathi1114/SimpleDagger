@@ -1,5 +1,7 @@
 # SimpleDagger
 
+A simple dagger 2 integration app. 
+
 The base flow of this project is to store some user's name and phone number which is available in the model class and print them.
 This Model.java will be acting as an dependent to be injected in the activity.
  
